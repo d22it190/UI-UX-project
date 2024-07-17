@@ -46,7 +46,7 @@ I learn about the ux designer what is the responsibilities of ux designer user r
 •	Knowledge of Design Principles 
 •	Creativity and Innovation in User Interface Design (UI Design)
 
-DAY - 3
+# DAY - 3
 
 Task Done: How to become a ui/ux designer, difference between ui/ux designer.
 
@@ -417,6 +417,9 @@ lack of time toprepare food, availability of variety, rewards and cash-backs. It
 led me to think of convenient and more attractive app for users in order to meet 
 their expectations more precisely while ordering food online.
 
+![image](https://github.com/user-attachments/assets/e4f22f5f-6346-4b62-b2af-fe21af1462d4)
+
+
 # DAY - 23
 Task Done: Create & Design for Apple Watch Series 4
 
@@ -426,6 +429,9 @@ AppleWatchSeries 4 provides new opportunitiesfor designers and developersto do
 morewiththeir apps.Series 4watcheshave newdisplayswith larger dimensions, and
 other enhancementsthat allow developers to deliver richer and more immersive
 experiences
+
+![image](https://github.com/user-attachments/assets/69ba0907-e246-4bdd-beff-d723ec1e0099)
+
 
 # DAY - 24
 Task Done: Create profile page & Home Page .
